@@ -6,7 +6,6 @@
     "scripts": {
         "devStart": "nodemon server.js"
     },
-    
     "author": "",
     "license": "ISC",
     "dependencies": {
@@ -18,4 +17,3 @@
         "nodemon": "^1.19.0"
     }
 }
-
